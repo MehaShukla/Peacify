@@ -33,40 +33,42 @@
 
  ### Light/ Dark UI-
 
-![](Read%20Me%5C1.png)
+![1](https://user-images.githubusercontent.com/75724727/169809474-0f0d39e8-007c-4d31-a15c-b4dd0a0de356.png)
 
-![](Read%20Me%5C2.png)
+![2](https://user-images.githubusercontent.com/75724727/169809578-b99ff59e-3bde-4eb5-b6d9-888ff07b6ac4.png)
 
-![](Read%20Me%5C3.png)
+![3](https://user-images.githubusercontent.com/75724727/169809630-c28335b6-1190-4496-bdd5-861e1e301992.png)
+
  ### Live Camera emotion Detection- Happy, Sad, Angry, Disgust, Surprise,Fear, Neutral-
 
-![](Read%20Me%5CEmotions%20Detected.png)
+![ Emotions Detected](https://user-images.githubusercontent.com/75724727/169809743-12d471e4-6cc0-4fa7-9c62-e4e075f84165.png)
+
 
  ### Recommend IMDB Movies, Spotify Songs, ZLibrary Books based on Emotions-
 
-![](Read%20Me%5COptions.png)
+![Options](https://user-images.githubusercontent.com/75724727/169809837-2c8bba45-4de7-414a-8109-4bbf25e3d03e.png)
 
-![](Read%20Me%5COptions2.png)
+![Options2](https://user-images.githubusercontent.com/75724727/169809902-0176c35e-6d86-4c85-bab6-560d2a3ea5a8.png)
 
  ### Chat with upto 20 users, Notifaction sound, Login/Sign Up, Send attachment, emoji, react, Claim Profile, See no of users online, have seperate chat rooms-
 
-![](Read%20Me%5CChat%20Features.png)
+![Chat Features](https://user-images.githubusercontent.com/75724727/169809937-fc4e0eb0-f5bb-4db6-b589-5a09f4be6e4f.png)
 
  ### Give your face movement- Convert jpg images to moving gif-
 
-![](Read%20Me%5CRelive%20your%20face.png)
+![Relive your face](https://user-images.githubusercontent.com/75724727/169809981-520aaec8-c83e-4d2e-8dc9-559dbe7cdb81.png)
 
  ### Get Genre Based recommendation of Songs, Movies, Books- Comedy, Action, Romantic-
 
-![](Read%20Me%5CGenre%20based.png)
+![Genre based](https://user-images.githubusercontent.com/75724727/169810050-03dfc9f6-70fa-4fa6-8960-9f8e5c103128.png)
 
  ### AI Powered ChatBot to assist you how to access website features-
 
-![](Read%20Me%5CChatbot.png)
+![Chatbot](https://user-images.githubusercontent.com/75724727/169810076-52774a17-5c95-471d-bf0c-f3e3fc22b32a.png)
 
  ### Know More About Me- Directs to my Linkedin and Github-
 
- ![](Read%20Me%5CConnect%20With%20Me.png)
+![Connect With Me](https://user-images.githubusercontent.com/75724727/169810158-5cabf831-f425-43c3-8a03-b08ad531a5b2.png)
 
 
 ## Tech Stack
