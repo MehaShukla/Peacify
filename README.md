@@ -13,7 +13,7 @@
 5. When user clicks on movie which he wishes to watch, they will be redirected to **IMDB website**.
 6. For songs it redirects them to **Spotify website**.
 7. For books it redirects them to **ZLibrary website**.
-8. **Live Chat feature** with upto 20 users/friens in different chatrooms.
+8. **Live Chat feature** with upto 20 users/friends in different chatrooms.
     1. Tells Live users with their names.
     2. Login/Logout/ change Password,Dp of your personal chat.
     3. Reply by tagging messages in chat room.
