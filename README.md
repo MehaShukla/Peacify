@@ -31,15 +31,42 @@
 15. No signup required for quick access to website.
 ## Screenshots
 
+ ### Light/ Dark UI-
 
+![](Read%20Me%5C1.png)
 
+![](Read%20Me%5C2.png)
 
+![](Read%20Me%5C3.png)
+ ### Live Camera emotion Detection- Happy, Sad, Angry, Disgust, Surprise,Fear, Neutral-
 
+![](Read%20Me%5CEmotions%20Detected.png)
 
+ ### Recommend IMDB Movies, Spotify Songs, ZLibrary Books based on Emotions-
 
+![](Read%20Me%5COptions.png)
 
+![](Read%20Me%5COptions2.png)
 
+ ### Chat with upto 20 users, Notifaction sound, Login/Sign Up, Send attachment, emoji, react, Claim Profile, See no of users online, have seperate chat rooms-
 
+![](Read%20Me%5CChat%20Features.png)
+
+ ### Give your face movement- Convert jpg images to moving gif-
+
+![](Read%20Me%5CRelive%20your%20face.png)
+
+ ### Get Genre Based recommendation of Songs, Movies, Books- Comedy, Action, Romantic-
+
+![](Read%20Me%5CGenre%20based.png)
+
+ ### AI Powered ChatBot to assist you how to access website features-
+
+![](Read%20Me%5CChatbot.png)
+
+ ### Know More About Me- Directs to my Linkedin and Github-
+
+ ![](Read%20Me%5CConnect%20With%20Me.png)
 
 
 ## Tech Stack
