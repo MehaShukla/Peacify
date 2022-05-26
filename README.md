@@ -1,8 +1,9 @@
 # Peacify
 
 ## Inspiration
-1. In this world so full of stress and chaos, everyone aims of getting peace.
-2. **Peacify** gives you the same, by detecting your emotions and gives recommendations to entertain you, and in turn peacify you.
+1. In this world so full of stress and chaos, everyone aims at getting peace.
+2. **Peacify** gives you the same, by detecting your emotions and gives recommendations to entertain you, and in turn peacify you by its various features.
+3. Genre Based Movies,Books,Songs , Emotion based Movies , Books,Songs, Chatting feature with friends, Give your static images some movement through GIFs,Chatbot Assistance,Light and Dark UI and many more.
 
 ## Features- With DEMO
 **Peacify** is a facial expression recognition-based Movie , Books and Music Suggestion website that cheer up users and saves time while searching for a movie or song that matches their emotions.
@@ -80,9 +81,11 @@
 6. Based on the seven emotions, a new dataset of movies, books and music was constructed. The data from movies, books and songs was utilized to create the various templates that correlate to various emotions.
 ## Challenges
 It was hard to find Movies and Songs datasets that reflected different emotions on the web. Finding templates of emotion-based movies and songs proved to be a major challenge. It was a challenging task to get the website to access 7 movie templates from the movies button and 7 song templates from the songs button based on the emotion recognized. Dynamic links were used as a means to access the templates for movies/songs corresponding to the output of the model.
-## Video
-## Live Demo
-## Meha Shukla
+
+# Submission By - Meha Shukla                      Microsoft Engage Mentee'22
+
+## Video- https://youtu.be/8-TAWg-tnkc
+## Live Demo-https://meha-shukla-peacify-production.up.railway.app/
 ## Mail - meha12shukla@gmail.com
 ## Linkedin- https://www.linkedin.com/in/mehashukla/
 ## Github - https://github.com/MehaShukla
