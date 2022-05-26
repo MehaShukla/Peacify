@@ -1,38 +1,14 @@
-# Peacify
+# PEACIFY
 
-![emotiondetect](https://user-images.githubusercontent.com/75724727/170584622-8351dd84-d9c0-4d11-bc0c-2d6deaaba2d5.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/75724727/170585388-2d15ab99-4636-43d4-af39-1d5c523a2e11.gif)
 
-## Inspiration
+
+## INSPIRATION
 1. In this world so full of stress and chaos, everyone aims at getting peace.
 2. **Peacify** gives you the same, by detecting your emotions and gives recommendations to entertain you, and in turn peacify you by its various features.
 3. Genre Based Movies,Books,Songs , Emotion based Movies , Books,Songs, Chatting feature with friends, Give your static images some movement through GIFs,Chatbot Assistance,Light and Dark UI and many more.
 
-## Features- With DEMO
-**Peacify** is a facial expression recognition-based Movie , Books and Music Suggestion website that cheer up users and saves time while searching for a movie or song that matches their emotions.
-1. It recognizes **facial expression** based on the **7 categories** i.e., angry, sad, fear, happy, disgust, surprise and neutral.
-2. Based on the emotion it gives user **five choices**  either suggesting movies, books, songs or chat with friends or convert pics from jpg to gif.
-3. **Live Camera Feed** to detect emotions.
-4. If user wishes to watch movies/songs then a list of movies/songs/books matching their mood are suggested with movie/songs/books poster.
-5. When user clicks on movie which he wishes to watch, they will be redirected to **IMDB website**.
-6. For songs it redirects them to **Spotify website**.
-7. For books it redirects them to **ZLibrary website**.
-8. **Live Chat feature** with upto 20 users/friends in different chatrooms.
-    1. Tells Live users with their names.
-    2. Login/Logout/ change Password,Dp of your personal chat.
-    3. Reply by tagging messages in chat room.
-    4. Send Emoji to upto 20 users.
-    5. Send Attachments- files, songs, text, docs etc.
-    6. Receive Notification on receiving message.
-    7. See previous days messages even after days.
-    8. Auto Scroll Feature.
-9. **Relive your images**- Upload your images in jpg and convert them to gif and download.
-10. **Light and Dark Mode UI** available for ease in readability and functionality.
-11. **AI based Chatbot** feature to chat and seek assistance from regarding features of website and usability.
-12. **Genre Based Recommendation**- watch movies, listen songs and read books without any particular emotion detection.
-13. Get directed to My **Linkedin and GitHub** to know more about me and my experiences.
-14. **Scroll Up feature** for ease in moving up while you navigate through the website.
-15. No signup required for quick access to website.
-## Screenshots
+# FEATURES WITH SCREENSHOTS-
 
  # Light/ Dark UI-
 
@@ -73,6 +49,35 @@
 
 ![Connect With Me](https://user-images.githubusercontent.com/75724727/169810158-5cabf831-f425-43c3-8a03-b08ad531a5b2.png)
 
+## FEATURES WITH DEMO-
+**Peacify** is a facial expression recognition-based Movie , Books and Music Suggestion website that cheer up users and saves time while searching for a movie or song that matches their emotions.
+1. It recognizes **facial expression** based on the **7 categories** i.e., angry, sad, fear, happy, disgust, surprise and neutral.
+2. Based on the emotion it gives user **five choices**  either suggesting movies, books, songs or chat with friends or convert pics from jpg to gif.
+3. **Live Camera Feed** to detect emotions.
+4. If user wishes to watch movies/songs then a list of movies/songs/books matching their mood are suggested with movie/songs/books poster.
+5. When user clicks on movie which he wishes to watch, they will be redirected to **IMDB website**.
+6. For songs it redirects them to **Spotify website**.
+7. For books it redirects them to **ZLibrary website**.
+8. **Live Chat feature** with upto 20 users/friends in different chatrooms.
+    1. Tells Live users with their names.
+    2. Login/Logout/ change Password,Dp of your personal chat.
+    3. Reply by tagging messages in chat room.
+    4. Send Emoji to upto 20 users.
+    5. Send Attachments- files, songs, text, docs etc.
+    6. Receive Notification on receiving message.
+    7. See previous days messages even after days.
+    8. Auto Scroll Feature.
+9. **Relive your images**- Upload your images in jpg and convert them to gif and download.
+10. **Light and Dark Mode UI** available for ease in readability and functionality.
+11. **AI based Chatbot** feature to chat and seek assistance from regarding features of website and usability.
+12. **Genre Based Recommendation**- watch movies, listen songs and read books without any particular emotion detection.
+13. Get directed to My **Linkedin and GitHub** to know more about me and my experiences.
+14. **Scroll Up feature** for ease in moving up while you navigate through the website.
+15. No signup required for quick access to website.
+
+## Video- https://youtu.be/8-TAWg-tnkc
+## Live Demo-https://meha-shukla-peacify-production.up.railway.app/
+
 
 ## Tech Stack
 1. Python is the programming language used to create the emotion recognition model and deploy it on the web application using flask.
@@ -86,8 +91,7 @@ It was hard to find Movies and Songs datasets that reflected different emotions 
 
 # Submission By - Meha Shukla                      Microsoft Engage Mentee'22
 
-## Video- https://youtu.be/8-TAWg-tnkc
-## Live Demo-https://meha-shukla-peacify-production.up.railway.app/
+
 ## Mail - meha12shukla@gmail.com
 ## Linkedin- https://www.linkedin.com/in/mehashukla/
 ## Github - https://github.com/MehaShukla
