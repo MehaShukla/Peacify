@@ -1,5 +1,7 @@
 # Peacify
 
+![emotiondetect](https://user-images.githubusercontent.com/75724727/170584622-8351dd84-d9c0-4d11-bc0c-2d6deaaba2d5.gif)
+
 ## Inspiration
 1. In this world so full of stress and chaos, everyone aims at getting peace.
 2. **Peacify** gives you the same, by detecting your emotions and gives recommendations to entertain you, and in turn peacify you by its various features.
@@ -89,3 +91,12 @@ It was hard to find Movies and Songs datasets that reflected different emotions 
 ## Mail - meha12shukla@gmail.com
 ## Linkedin- https://www.linkedin.com/in/mehashukla/
 ## Github - https://github.com/MehaShukla
+
+## INSTALLATION-
+1. Clone App - git clone https://github.com/MehaShukla/Peacify .
+2. Open the Folder in a terminal - Visual Studio preferred , if nothing installed yet.
+3. Install the dependencies -Run pip install -r requirements. txt (Python 2), or pip3 install -r requirements. txt (Python 3).
+4. Open app.py and Execute the program.
+5. You will get a URL somewhat of this type- http://127.0.0.1:5000/
+6. Copy and Paste in a browser.
+Voila!! Your Application Starts Running.
