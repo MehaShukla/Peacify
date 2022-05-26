@@ -32,7 +32,7 @@
 15. No signup required for quick access to website.
 ## Screenshots
 
- ### Light/ Dark UI-
+ # Light/ Dark UI-
 
 ![1](https://user-images.githubusercontent.com/75724727/169809474-0f0d39e8-007c-4d31-a15c-b4dd0a0de356.png)
 
@@ -40,34 +40,34 @@
 
 ![3](https://user-images.githubusercontent.com/75724727/169809630-c28335b6-1190-4496-bdd5-861e1e301992.png)
 
- ### Live Camera emotion Detection- Happy, Sad, Angry, Disgust, Surprise,Fear, Neutral-
+ # Live Camera emotion Detection- Happy, Sad, Angry, Disgust, Surprise,Fear, Neutral-
 
 ![ Emotions Detected](https://user-images.githubusercontent.com/75724727/169809743-12d471e4-6cc0-4fa7-9c62-e4e075f84165.png)
 
 
- ### Recommend IMDB Movies, Spotify Songs, ZLibrary Books based on Emotions-
+ # Recommend IMDB Movies, Spotify Songs, ZLibrary Books based on Emotions-
 
 ![Options](https://user-images.githubusercontent.com/75724727/169809837-2c8bba45-4de7-414a-8109-4bbf25e3d03e.png)
 
 ![Options2](https://user-images.githubusercontent.com/75724727/169809902-0176c35e-6d86-4c85-bab6-560d2a3ea5a8.png)
 
- ### Chat with upto 20 users, Notifaction sound, Login/Sign Up, Send attachment, emoji, react, Claim Profile, See no of users online, have seperate chat rooms-
+ # Chat with upto 20 users, Notifaction sound, Login/Sign Up, Send attachment, emoji, react, Claim Profile, See no of users online, have seperate chat rooms-
 
 ![Chat Features](https://user-images.githubusercontent.com/75724727/169809937-fc4e0eb0-f5bb-4db6-b589-5a09f4be6e4f.png)
 
- ### Give your face movement- Convert jpg images to moving gif-
+ # Give your face movement- Convert jpg images to moving gif-
 
 ![Relive your face](https://user-images.githubusercontent.com/75724727/169809981-520aaec8-c83e-4d2e-8dc9-559dbe7cdb81.png)
 
- ### Get Genre Based recommendation of Songs, Movies, Books- Comedy, Action, Romantic-
+ # Get Genre Based recommendation of Songs, Movies, Books- Comedy, Action, Romantic-
 
 ![Genre based](https://user-images.githubusercontent.com/75724727/169810050-03dfc9f6-70fa-4fa6-8960-9f8e5c103128.png)
 
- ### AI Powered ChatBot to assist you how to access website features-
+ # AI Powered ChatBot to assist you how to access website features-
 
 ![Chatbot](https://user-images.githubusercontent.com/75724727/169810076-52774a17-5c95-471d-bf0c-f3e3fc22b32a.png)
 
- ### Know More About Me- Directs to my Linkedin and Github-
+ # Know More About Me- Directs to my Linkedin and Github-
 
 ![Connect With Me](https://user-images.githubusercontent.com/75724727/169810158-5cabf831-f425-43c3-8a03-b08ad531a5b2.png)
 
