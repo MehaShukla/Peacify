@@ -78,7 +78,6 @@
 ## Video- https://youtu.be/8-TAWg-tnkc
 ## Live Demo-https://meha-shukla-peacify-production.up.railway.app/
 
-
 ## Tech Stack
 1. Python is the programming language used to create the emotion recognition model and deploy it on the web application using flask.
 2. CV2, TensorFlow, NumPy, matplotlib,keras and other libraries are also utilized.
@@ -86,6 +85,9 @@
 4. The FER-2013 dataset, which comprises around 35000 photos, was utilized for model training and validation.
 5. This model is deployed on a website created with HTML, CSS and Java Script using the flask framework.
 6. Based on the seven emotions, a new dataset of movies, books and music was constructed. The data from movies, books and songs was utilized to create the various templates that correlate to various emotions.
+
+## My Documentation- https://drive.google.com/file/d/1cq3u6vCCyw2s6HK59svDwnLjJ3joE2S-/view?usp=sharing
+
 ## Challenges
 It was hard to find Movies and Songs datasets that reflected different emotions on the web. Finding templates of emotion-based movies and songs proved to be a major challenge. It was a challenging task to get the website to access 7 movie templates from the movies button and 7 song templates from the songs button based on the emotion recognized. Dynamic links were used as a means to access the templates for movies/songs corresponding to the output of the model.
 
