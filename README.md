@@ -76,7 +76,7 @@
 15. No signup required for quick access to website.
 
 ## Video- https://youtu.be/8-TAWg-tnkc
-## Live Demo-https://meha-shukla-peacify-production.up.railway.app/
+## Live Demo-https://mehashuklapeacify-production.up.railway.app/
 
 ## Tech Stack
 1. Python is the programming language used to create the emotion recognition model and deploy it on the web application using flask.
